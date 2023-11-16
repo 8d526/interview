@@ -1,0 +1,28 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "swing contract interview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8d526/interview.git"
+  },
+  "keywords": [
+    "interview",
+    "web3",
+    "swing"
+  ],
+  "author": "swing.xyz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/8d526/interview/issues"
+  },
+  "homepage": "https://github.com/8d526/interview#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.19.0"
+  }
+}
